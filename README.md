@@ -1,2 +1,2 @@
 # FirstTest
-Start to enjoy gihub!
+Start to enjoy github!
